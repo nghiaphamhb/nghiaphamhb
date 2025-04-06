@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently studying on [ITMO University](https://en.itmo.ru/)
 
-- 🌱 I’m currently learning **???**
+# - 🌱 I’m currently learning **???**
 
-- 👯 I’m looking to collaborate on **...**
+# - 👯 I’m looking to collaborate on **...**
 
-- 🤝 I’m looking for help with **...**
+# - 🤝 I’m looking for help with **...**
 
 - 📫 How to reach me **phamdangtrungnghia@gmail.com**
 
