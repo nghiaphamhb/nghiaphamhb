@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://i.imgur.com/kIDPmrd.gif" alt="Just a fun gif">
-  <p> <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaphamhb" /> </p>
 </p>
 
+<p> <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaphamhb" /> </p>
 
 - 🔭 I’m currently studying on [ITMO University](https://en.itmo.ru/)
 
