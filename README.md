@@ -4,10 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://i.imgur.com/kIDPmrd.gif" alt="Just a fun gif"/>
 </p>
 <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaphamhb" />
-
 My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, but don't be confused with that nickname, I love making friends 🤝! I also like to work out 🏋️ and write code 👨‍💻.
-
-
 
 * 🌍  I'm based in Saint Peterburg, Russia
 * 🚀  I'm currently working on [ITMO University](http://en.itmo.ru/)
@@ -28,8 +25,8 @@ My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/nghiaphamhb"><img src="https://github-readme-stats.vercel.app/api?username=nghiaphamhb&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="nghiaphamhb's GitHub stats" /></a>
+<a href="http://www.github.com/nghiaphamhb"><img src="https://github-readme-stats.vercel.app/api?username=nghiaphamhb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nghiaphamhb's GitHub stats" /></a>
 
-<a href="http://www.github.com/nghiaphamhb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nghiaphamhb&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/nghiaphamhb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nghiaphamhb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/nghiaphamhb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiaphamhb&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/nghiaphamhb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiaphamhb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
