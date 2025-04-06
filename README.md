@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://i.imgur.com/kIDPmrd.gif" alt="Just a fun gif">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaphamhb" /> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaphamhb" /> </p>
 </p>
 
 
