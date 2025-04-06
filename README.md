@@ -2,7 +2,7 @@
 <h3 align="center">My nickname is "Chiếc lá đơn côi", which means the leaf alone, but don't be confused with that nickname, I love making friends! I also like to work out and write code.</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/kIDPmrd.gif" alt="Just a fun gif">
+  <img src="https://i.imgur.com/kIDPmrd.gif" alt="Just a fun gif"/>
   <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaphamhb" />
 </p>
 
