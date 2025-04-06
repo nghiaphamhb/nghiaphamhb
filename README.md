@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nghia Pham</h1>
-<h3 align="center">My nickname is "Chiếc lá đơn côi", which means the leaf alone, but don't be confused with that nickname, I love making friends! I also like to work out and write code.</h3>
+<h1 align="center">Hi 👋, I'm 🍁Nghia Pham🍁</h1>
+<h3 align="center">My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, but don't be confused with that nickname, I love making friends! I also like to work out and write code.</h3>
 
 <p align="center">
   <img src="https://i.imgur.com/kIDPmrd.gif" alt="Just a fun gif"/>
@@ -15,7 +15,7 @@
 
 <!-- - 🤝 I’m looking for help with **...** -->
 
-- 📫 How to reach me **phamdangtrungnghia@gmail.com**
+- 📫 How to contact with me: **phamdangtrungnghia@gmail.com**
 
 <p align="left">
 </p>
