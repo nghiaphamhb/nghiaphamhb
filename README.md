@@ -1,15 +1,9 @@
-- 👋 Hi, I’m @nghiaphamhb
-- 🌱 I’m currently learning everything 
-- ⚡ Fun fact: Fit in life and fit my body
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!---
-nghiaphamhb/nghiaphamhb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 ![Just a fun gif](https://i.imgur.com/kIDPmrd.gif)
 
