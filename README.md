@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nghiaphamhb
-- 🌱 I’m currently learning Java, Javascript
+- 🌱 I’m currently learning everything 
 - ⚡ Fun fact: Fit in life and fit my body
 
 <!---
