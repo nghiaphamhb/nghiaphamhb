@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, but don't be confused with that nickname, I love making friends 🤝! I also like to work out 🏋️ and write code 👨‍💻.
 
 * 🌍  I'm based in Saint Peterburg, Russia
-* 🚀  I'm currently working on [ITMO University]([http://en.itmo.ru/](https://news.itmo.ru/en/education/students/news/13448/])
+* 🚀  I'm currently working on [ITMO University]([https://news.itmo.ru/en/education/students/news/13448/])
 
 ### Skills
 
