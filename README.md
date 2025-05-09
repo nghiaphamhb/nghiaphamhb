@@ -1,6 +1,11 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77936&width=500&lines=Hi!+My+name+is+%F0%9F%8D%81Nghia+Pham%F0%9F%8D%81)]()
  
-<a href='https://postimg.cc/CZ97CzsP' target='_blank'><img src='https://i.postimg.cc/CZ97CzsP/guts.gif' border='0' alt='guts'/></a>
+<p align="center">
+  <a href="https://postimg.cc/CZ97CzsP" target="_blank">
+    <img src="https://i.postimg.cc/CZ97CzsP/guts.gif" alt="guts" width="400"/>
+  </a>
+</p>
+
 
 <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaphamhb" />
 My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, but don't be confused with that nickname, I love making friends 🤝! I also like to work out 🏋️ and write code 👨‍💻.
