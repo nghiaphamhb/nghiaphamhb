@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 🍁Nghia Pham🍁
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77936&width=500&lines=Hi+My+name+is+%F0%9F%8D%81Nghia+Pham%F0%9F%8D%81)](https://github.com/nghiapham)
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77936&width=500&lines=Hi+My+name+is+%F0%9F%8D%81Nghia+Pham%F0%9F%8D%81)](https://github.com/nghiapham)
 
 ======================================================================================================================================
 <p  align="center">
