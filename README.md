@@ -13,6 +13,14 @@ My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, b
 * 🌍  I'm based in Saint Peterburg, Russia
 * 🚀  I'm currently working on [ITMO University](https://news.itmo.ru/en/education/students/news/13448/)
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=bb86fc&text_color=c792ea&icon_color=c792ea&hide_border=false" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=bb86fc&text_color=c792ea&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+
 ### Skills
 
 
@@ -23,16 +31,10 @@ My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, b
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/nghiaphamhb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+ <a href="phamdangtrungnghia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<!-- For editing my profile: https://www.profileme.dev/create-profile --> 
-
-<a href="http://www.github.com/nghiaphamhb"><img src="https://github-readme-stats.vercel.app/api?username=nghiaphamhb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nghiaphamhb's GitHub stats" /></a>
-
-<a href="http://www.github.com/nghiaphamhb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nghiaphamhb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/nghiaphamhb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghiaphamhb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <img src="https://raw.githubusercontent.com/quangtuanitmo18/quangtuanitmo18/output/snake.svg" alt="Snake animation" /> -->
