@@ -43,7 +43,7 @@ My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, b
 
   <!-- Resume -->
   <a href="https://news.itmo.ru/en/education/students/news/13448/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Intro&logo=substack&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="intro logo" />
+    <img src="https://img.shields.io/static/v1?message=Spot&logo=substack&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotlight logo" />
   </a>
 </p>
 <!-- <img src="https://raw.githubusercontent.com/quangtuanitmo18/quangtuanitmo18/output/snake.svg" alt="Snake animation" /> -->
