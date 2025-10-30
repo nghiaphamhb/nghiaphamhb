@@ -1,23 +1,23 @@
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=c792ea&width=500&lines=Hi!+My+name+is+%F0%9F%8D%81Nghia+Pham%F0%9F%8D%81)]()
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E6C200&width=500&lines=Hi!+My+name+is+%F0%9F%8D%81+Nghia+Pham+%F0%9F%8D%81)]()
  
 <p align="center">
   <a href="https://postimg.cc/CZ97CzsP" target="_blank">
-    <img src="https://i.postimg.cc/CZ97CzsP/guts.gif" alt="guts" width="400"/>
+    <img src="https://i.postimg.cc/BvDdR8Gv/lavang.gif" alt="yellow leaf" width="400"/>
   </a>
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaphamhb" />
-My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, but don't be confused with that nickname, I love making friends 🤝! I also like to work out 🏋️ and write code 👨‍💻.
+<img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=B8860B&style=flat" alt="nghiaphamhb" />
+My nickname is "chiecladoncoi", which means the leaf alone 🍁, but don't be confused with that nickname, I love making friends 🤝! I also like to work out 🏋️ and write code 👨‍💻.
 
 * 🌍  I'm based in Saint Peterburg, Russia
 * 🚀  I'm currently studying **Software Engineering** at [ITMO University](https://itmo.ru/)
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=bb86fc&text_color=c792ea&icon_color=c792ea&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=FFD700&text_color=E6C200&icon_color=E6C200&hide_border=false" height="150" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=bb86fc&text_color=c792ea&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 
