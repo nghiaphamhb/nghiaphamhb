@@ -11,7 +11,7 @@
 My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, but don't be confused with that nickname, I love making friends 🤝! I also like to work out 🏋️ and write code 👨‍💻.
 
 * 🌍  I'm based in Saint Peterburg, Russia
-* 🚀  I'm currently working on [ITMO University](https://news.itmo.ru/en/education/students/news/13448/)
+* 🚀  I'm currently studying **Software Engineering** at [ITMO University](https://itmo.ru/)
 
 
 <div align="center">
@@ -39,6 +39,11 @@ My nickname is "Chiếc lá đơn côi 🍁", which means the leaf alone 🍁, b
   <!-- Resume -->
   <a href="https://rxresu.me/phamdangtrungnghia2/junior-backend-developer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=readme&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
+  </a>
+
+  <!-- Resume -->
+  <a href="https://news.itmo.ru/en/education/students/news/13448/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Intro&logo=substack&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="intro logo" />
   </a>
 </p>
 <!-- <img src="https://raw.githubusercontent.com/quangtuanitmo18/quangtuanitmo18/output/snake.svg" alt="Snake animation" /> -->
