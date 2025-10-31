@@ -46,4 +46,7 @@ My nickname is "chiecladoncoi", which means the leaf alone 🍁, but don't be co
     <img src="https://img.shields.io/static/v1?message=Spot&logo=substack&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotlight logo" />
   </a>
 </p>
-<!-- <img src="https://raw.githubusercontent.com/quangtuanitmo18/quangtuanitmo18/output/snake.svg" alt="Snake animation" /> -->
+
+  <!-- Snake ăn commit -->
+![snake](https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake.svg)
+
