@@ -13,14 +13,6 @@ My nickname is "chiecladoncoi", which means the leaf alone 🍁, but don't be co
 * 🌍  I'm based in Saint Peterburg, Russia
 * 🚀  I'm currently studying **Software Engineering** at [ITMO University](https://itmo.ru/)
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=FFD700&text_color=E6C200&icon_color=E6C200&hide_border=false" height="150" alt="stats graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-
 ### Skills
 
 
@@ -46,6 +38,12 @@ My nickname is "chiecladoncoi", which means the leaf alone 🍁, but don't be co
     <img src="https://img.shields.io/static/v1?message=Spot&logo=substack&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotlight logo" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=FFD700&text_color=E6C200&icon_color=E6C200&hide_border=false" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
+</div>
 
   <!-- Snake ăn commit -->
 ![snake](https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake.svg)
