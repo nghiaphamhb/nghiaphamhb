@@ -46,5 +46,6 @@ My nickname is "chiecladoncoi", which means the leaf alone 🍁, but don't be co
 </div>
 
   <!-- Snake ăn commit -->
-![snake](https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake.svg)
+![snake dark](https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake-dark.svg?v=2#gh-dark-mode-only)
+
 
