@@ -11,7 +11,8 @@
 My nickname is "chiecladoncoi", which means the leaf alone 🍁, but don't be confused with that nickname, I love making friends 🤝! I also like to work out 🏋️ and write code 👨‍💻.
 
 * 🌍  I'm based in Saint Peterburg, Russia
-* 🚀  I'm currently studying **Software Engineering** at [ITMO University](https://itmo.ru/)
+* 📚  I'm currently studying **Software Engineering** at [ITMO University](https://itmo.ru/)
+* 🚀  I want to be a **fullstack web developer**
 
 ### Languages and Tools
 
