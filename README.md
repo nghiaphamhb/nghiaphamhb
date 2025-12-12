@@ -72,34 +72,18 @@
     </a>
   </p>
 
-  <!--START_SECTION:yearprogress-->
-  <h3>📅 Progress Dashboard</h3>
+<!--START_SECTION:yearprogress-->
+### ⏳ Progress Dashboard
 
-  <table>
-    <tr>
-      <th>Metric</th>
-      <th>Progress</th>
-      <th>Value</th>
-    </tr>
-    <tr>
-      <td><b>Year</b></td>
-      <td>🔥🔥🔥🔥</td>
-      <td><b>94.82%</b></td>
-    </tr>
-    <tr>
-      <td><b>Month</b></td>
-      <td>🔥🔥🔥🔥🔥🔥▁▁▁▁▁▁▁▁▁</td>
-      <td><b>39.06%</b></td>
-    </tr>
-    <tr>
-      <td><b>Week</b></td>
-      <td>🔥🔥🔥🔥🔥🔥▁</td>
-      <td><b>Saturday (6/7)</b></td>
-    </tr>
-  </table>
+| Metric | Progress | Value |
+|---|---|---|
+| **Year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🪵 | **94.83%** |
+| **Month** | 🔥🔥🔥🔥🪵🪵🪵🪵🪵🪵 | **39.10%** |
+| **Week**  | 🔥🔥🔥🔥🔥🔥🪵 | **Saturday (6/7)** |
 
-  <p>🕒 <b>Updated (MSK):</b> <b>13-Dec-2025</b></p>
-  <!--END_SECTION:yearprogress-->
+🕒 **Updated (MSK):** **13-Dec-2025**
+
+<!--END_SECTION:yearprogress-->
 
   <p>
     <img src="https://github-readme-stats-one-drab-54.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=FFD700&text_color=E6C200&icon_color=E6C200&hide_border=false" height="150" alt="stats graph" />
