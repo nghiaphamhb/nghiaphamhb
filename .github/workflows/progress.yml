@@ -11,7 +11,6 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -22,14 +21,14 @@ jobs:
           set -euo pipefail
           export TZ="Europe/Moscow"
 
-          # --------------------------
-          # Helpers
-          # --------------------------
           make_bar () {
             # args: percent slots filled_char empty_char
             local pct="$1" slots="$2" filled="$3" empty="$4"
+
+            # round to nearest (avoid 94% showing only 3/4 flames)
             local filled_n
-            filled_n=$(awk -v p="$pct" -v s="$slots" 'BEGIN{printf "%d", (p/100.0)*s}')
+            filled_n=$(awk -v p="$pct" -v s="$slots" 'BEGIN{printf "%d", (p/100.0)*s + 0.5}')
+
             if [ "$filled_n" -lt 0 ]; then filled_n=0; fi
             if [ "$filled_n" -gt "$slots" ]; then filled_n="$slots"; fi
             local empty_n=$((slots - filled_n))
@@ -58,53 +57,42 @@ jobs:
 
           now_epoch=$(date +%s)
 
-          # --------------------------
-          # Year progress
-          # --------------------------
+          # Year
           year=$(date +%Y)
           start_year=$(date -d "${year}-01-01 00:00:00" +%s)
           end_year=$(date -d "${year}-12-31 23:59:59" +%s)
           year_pct=$(percent_between "$start_year" "$end_year" "$now_epoch")
-
-          # Year bar: 4 slots, 🔥 / ▁
-          year_bar=$(make_bar "$year_pct"=:"4" "🔥" "▁") || true
-          # Fix bash typo safety: rebuild correctly
           year_bar=$(make_bar "$year_pct" 4 "🔥" "▁")
 
-          # --------------------------
-          # Month progress
-          # --------------------------
+          # Month
           month_start_str=$(date +%Y-%m-01)
           start_month=$(date -d "${month_start_str} 00:00:00" +%s)
           end_month=$(date -d "${month_start_str} +1 month -1 second" +%s)
           month_pct=$(percent_between "$start_month" "$end_month" "$now_epoch")
-
-          # Month bar: 15 slots, 🔥 / ▁
           month_bar=$(make_bar "$month_pct" 15 "🔥" "▁")
 
-          # --------------------------
-          # Week progress (Monday first day)
-          # --------------------------
-          # ISO day of week: 1=Mon ... 7=Sun
+          # Week (Monday first, ISO: 1=Mon..7=Sun)
           iso_dow=$(date +%u)
           day_name=$(date +%A)
-          week_fire=$(printf "%0.s🔥" $(seq 1 "$iso_dow"))
+          week_bar=$(printf "%0.s🔥" $(seq 1 "$iso_dow"))
+          if [ "$iso_dow" -lt 7 ]; then
+            week_bar+=$(printf "%0.s▁" $(seq 1 $((7 - iso_dow))))
+          fi
 
           date_str=$(date "+%d-%b-%Y")
 
-          # --------------------------
-          # Write replacement block
-          # --------------------------
+          # Write markdown block
           cat > progress.txt <<EOF
           ### ⏳ Progress Dashboard
-          **Year:**  { ${year_bar} } ${year_pct}%
-          **Month:** { ${month_bar} } ${month_pct}%
-          **Week:**  ${week_fire}(${day_name}- ${iso_dow}/7)  // Moday is the first day of week
-          ⏰ Updated: **${date_str}** ·
-          EOF
 
-          # Trim leading spaces from heredoc indentation (if any)
-          sed -i 's/^[[:space:]]\{10\}//' progress.txt
+          | Metric | Progress | Value |
+          |---|---|---|
+          | **Year**  | ${year_bar} | **${year_pct}%** |
+          | **Month** | ${month_bar} | **${month_pct}%** |
+          | **Week**  | ${week_bar} | **${day_name} (${iso_dow}/7)** |
+
+          🕒 **Updated (MSK):** **${date_str}**
+          EOF
 
       - name: Update README
         shell: bash
@@ -122,7 +110,6 @@ jobs:
             /<!--START_SECTION:yearprogress-->/ {
               print "<!--START_SECTION:yearprogress-->"
               print repl
-              # Skip old block until END marker
               while ((getline) > 0) {
                 if ($0 ~ /<!--END_SECTION:yearprogress-->/) break
               }
@@ -138,7 +125,6 @@ jobs:
           set -euo pipefail
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
           git add README.md
           git commit -m "Update progress dashboard" || echo "No changes to commit"
           git push
