@@ -8,11 +8,14 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=B8860B&style=flat" alt="nghiaphamhb" />
-My nickname is "chiecladoncoi", which means the leaf alone 🍁, but don't be confused with that nickname, I love making friends 🤝! I also like to work out 🏋️ and write code 👨‍💻.
+Hi 👋 I'm a Software Engineering student with a strong interest in web development and building real-world applications.
+
+I enjoy meeting new people 🤝, staying active 🏋️, and challenging myself through coding 👨‍💻. 
+For me, programming is not just about writing code, but also about learning, creating, and continuously improving.
 
 * 🌍  I'm based in Saint Peterburg, Russia
 * 📚  I'm currently studying **Software Engineering** at [ITMO University](https://itmo.ru/)
-* 🚀  I want to be a **fullstack web developer**
+* 🚀  I aim to become a **fullstack web developer**
 
 ### Languages and Tools
 
