@@ -1,4 +1,4 @@
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E6C200&width=500&lines=Hi!+My+name+is+%F0%9F%8D%81+Nghia+Pham+%F0%9F%8D%81)]()
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E6C200&width=500&lines=Hi!+My+name+is+%F0%9F%8D%81+Pham+Nghia+%F0%9F%8D%81)]()
  
 <p align="center">
   <a href="https://postimg.cc/CZ97CzsP" target="_blank">
