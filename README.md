@@ -72,6 +72,12 @@ For me, programming is not just about writing code, but also about learning, cre
 </p>
 
 <!--START_SECTION:yearprogress-->
+### ⏳ Progress Dashboard
+**Year:**  { 🔥🔥🔥▁ } 94.82%
+**Month:** { 🔥🔥🔥🔥🔥▁▁▁▁▁▁▁▁▁▁ } 39.06%
+**Week:**  🔥🔥🔥🔥🔥🔥(Saturday- 6/7)  // Moday is the first day of week
+⏰ Updated: **13-Dec-2025** ·
+
 <!--END_SECTION:yearprogress-->
 
 <div align="center">
