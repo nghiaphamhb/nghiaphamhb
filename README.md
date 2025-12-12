@@ -32,8 +32,6 @@
 
   </div>
 
-  <br/><br/>
-
   <h3>🧰 Languages and Tools</h3>
 
   <p>
