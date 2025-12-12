@@ -62,21 +62,21 @@ jobs:
           start_year=$(date -d "${year}-01-01 00:00:00" +%s)
           end_year=$(date -d "${year}-12-31 23:59:59" +%s)
           year_pct=$(percent_between "$start_year" "$end_year" "$now_epoch")
-          year_bar=$(make_bar "$year_pct" 4 "🔥" "▁")
+          year_bar=$(make_bar "$year_pct" 12 "🔥" "🪵")
 
           # Month
           month_start_str=$(date +%Y-%m-01)
           start_month=$(date -d "${month_start_str} 00:00:00" +%s)
           end_month=$(date -d "${month_start_str} +1 month -1 second" +%s)
           month_pct=$(percent_between "$start_month" "$end_month" "$now_epoch")
-          month_bar=$(make_bar "$month_pct" 15 "🔥" "▁")
+          month_bar=$(make_bar "$month_pct" 10 "🔥" "🪵")
 
           # Week (Monday first, ISO: 1=Mon..7=Sun)
           iso_dow=$(date +%u)
           day_name=$(date +%A)
           week_bar=$(printf "%0.s🔥" $(seq 1 "$iso_dow"))
           if [ "$iso_dow" -lt 7 ]; then
-            week_bar+=$(printf "%0.s▁" $(seq 1 $((7 - iso_dow))))
+            week_bar+=$(printf "%0.s🪵" $(seq 1 $((7 - iso_dow))))
           fi
 
           date_str=$(date "+%d-%b-%Y")
