@@ -1,0 +1,144 @@
+name: Update Progress Dashboard (MSK)
+
+on:
+  schedule:
+    - cron: "0 21 * * *" # 00:00 Europe/Moscow (MSK)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate progress (Europe/Moscow)
+        shell: bash
+        run: |
+          set -euo pipefail
+          export TZ="Europe/Moscow"
+
+          # --------------------------
+          # Helpers
+          # --------------------------
+          make_bar () {
+            # args: percent slots filled_char empty_char
+            local pct="$1" slots="$2" filled="$3" empty="$4"
+            local filled_n
+            filled_n=$(awk -v p="$pct" -v s="$slots" 'BEGIN{printf "%d", (p/100.0)*s}')
+            if [ "$filled_n" -lt 0 ]; then filled_n=0; fi
+            if [ "$filled_n" -gt "$slots" ]; then filled_n="$slots"; fi
+            local empty_n=$((slots - filled_n))
+
+            local bar=""
+            if [ "$filled_n" -gt 0 ]; then
+              bar+=$(printf "%0.s${filled}" $(seq 1 "$filled_n"))
+            fi
+            if [ "$empty_n" -gt 0 ]; then
+              bar+=$(printf "%0.s${empty}" $(seq 1 "$empty_n"))
+            fi
+            printf "%s" "$bar"
+          }
+
+          percent_between () {
+            # args: start_epoch end_epoch now_epoch
+            local start="$1" end="$2" now="$3"
+            awk -v s="$start" -v e="$end" -v n="$now" 'BEGIN{
+              if (e<=s) {printf "0.00"; exit}
+              p=((n-s)/(e-s))*100
+              if (p<0) p=0
+              if (p>100) p=100
+              printf "%.2f", p
+            }'
+          }
+
+          now_epoch=$(date +%s)
+
+          # --------------------------
+          # Year progress
+          # --------------------------
+          year=$(date +%Y)
+          start_year=$(date -d "${year}-01-01 00:00:00" +%s)
+          end_year=$(date -d "${year}-12-31 23:59:59" +%s)
+          year_pct=$(percent_between "$start_year" "$end_year" "$now_epoch")
+
+          # Year bar: 4 slots, 🔥 / ▁
+          year_bar=$(make_bar "$year_pct"=:"4" "🔥" "▁") || true
+          # Fix bash typo safety: rebuild correctly
+          year_bar=$(make_bar "$year_pct" 4 "🔥" "▁")
+
+          # --------------------------
+          # Month progress
+          # --------------------------
+          month_start_str=$(date +%Y-%m-01)
+          start_month=$(date -d "${month_start_str} 00:00:00" +%s)
+          end_month=$(date -d "${month_start_str} +1 month -1 second" +%s)
+          month_pct=$(percent_between "$start_month" "$end_month" "$now_epoch")
+
+          # Month bar: 15 slots, 🔥 / ▁
+          month_bar=$(make_bar "$month_pct" 15 "🔥" "▁")
+
+          # --------------------------
+          # Week progress (Monday first day)
+          # --------------------------
+          # ISO day of week: 1=Mon ... 7=Sun
+          iso_dow=$(date +%u)
+          day_name=$(date +%A)
+          week_fire=$(printf "%0.s🔥" $(seq 1 "$iso_dow"))
+
+          date_str=$(date "+%d-%b-%Y")
+
+          # --------------------------
+          # Write replacement block
+          # --------------------------
+          cat > progress.txt <<EOF
+          ### ⏳ Progress Dashboard
+          **Year:**  { ${year_bar} } ${year_pct}%
+          **Month:** { ${month_bar} } ${month_pct}%
+          **Week:**  ${week_fire}(${day_name}- ${iso_dow}/7)  // Moday is the first day of week
+          ⏰ Updated: **${date_str}** ·
+          EOF
+
+          # Trim leading spaces from heredoc indentation (if any)
+          sed -i 's/^[[:space:]]\{10\}//' progress.txt
+
+      - name: Update README
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          awk '
+            BEGIN {
+              repl=""
+              while ((getline line < "progress.txt") > 0) {
+                repl = repl line "\n"
+              }
+              close("progress.txt")
+            }
+            /<!--START_SECTION:yearprogress-->/ {
+              print "<!--START_SECTION:yearprogress-->"
+              print repl
+              # Skip old block until END marker
+              while ((getline) > 0) {
+                if ($0 ~ /<!--END_SECTION:yearprogress-->/) break
+              }
+              print "<!--END_SECTION:yearprogress-->"
+              next
+            }
+            { print }
+          ' README.md > tmp && mv tmp README.md
+
+      - name: Commit and push changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "Update progress dashboard" || echo "No changes to commit"
+          git push
