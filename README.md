@@ -71,6 +71,9 @@ For me, programming is not just about writing code, but also about learning, cre
   </a>
 </p>
 
+<!--START_SECTION:yearprogress-->
+<!--END_SECTION:yearprogress-->
+
 <div align="center">
   <img src="https://github-readme-stats-one-drab-54.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=FFD700&text_color=E6C200&icon_color=E6C200&hide_border=false" height="150" alt="stats graph" />
 
