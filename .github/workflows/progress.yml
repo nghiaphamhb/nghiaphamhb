@@ -93,9 +93,8 @@ jobs:
 
           | Time | Progress | Description |
           |---|---|---|
-          | **MonthInYear**  | ${year_bar} | **${month_name} (${month_num}/12)** |
-          # | **Month** | ${month_bar} | **${month_pct}%** |
-          | **DayInWeek**  | ${week_bar} | **${day_name} (${iso_dow}/7)** |
+          | **Month_of_year**  | ${year_bar} | **${month_name} (${month_num}/12)** |
+          | **Day_of_week**  | ${week_bar} | **${day_name} (${iso_dow}/7)** |
 
           🕒 **Updated (MSK):** **${date_str}**
           EOF
