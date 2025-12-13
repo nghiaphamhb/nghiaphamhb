@@ -21,6 +21,10 @@ jobs:
           set -euo pipefail
           export TZ="Europe/Moscow"
 
+          month_name=$(date +%B)     # e.g., December
+          month_num=$(date +%m)      # e.g., 12
+          month_num=$((10#$month_num))
+
           make_bar () {
             # args: percent slots filled_char empty_char
             local pct="$1" slots="$2" filled="$3" empty="$4"
@@ -87,7 +91,7 @@ jobs:
 
           | Metric | Progress | Value |
           |---|---|---|
-          | **Year**  | ${year_bar} | **${year_pct}%** |
+          | **Year**  | ${year_bar} | **${month_name} (${month_num}/12)** |
           | **Month** | ${month_bar} | **${month_pct}%** |
           | **Week**  | ${week_bar} | **${day_name} (${iso_dow}/7)** |
 
