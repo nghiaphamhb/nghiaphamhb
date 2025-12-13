@@ -61,12 +61,14 @@ jobs:
 
           now_epoch=$(date +%s)
 
-          # Year
+          # Year (by month: 1..12)
           year=$(date +%Y)
-          start_year=$(date -d "${year}-01-01 00:00:00" +%s)
-          end_year=$(date -d "${year}-12-31 23:59:59" +%s)
-          year_pct=$(percent_between "$start_year" "$end_year" "$now_epoch")
-          year_bar=$(make_bar "$year_pct" 12 "🔥" "🪵")
+          month_num=$(date +%m)
+          month_num=$((10#$month_num))  # avoid leading-zero issues
+          year_bar=$(printf "%0.s🔥" $(seq 1 "$month_num"))
+          if [ "$month_num" -lt 12 ]; then
+            year_bar+=$(printf "%0.s🪵" $(seq 1 $((12 - month_num))))
+          fi
 
           # Month
           month_start_str=$(date +%Y-%m-01)
@@ -89,11 +91,11 @@ jobs:
           cat > progress.txt <<EOF
           ### ⏳ Progress Dashboard
 
-          | Metric | Progress | Value |
+          | Time | Progress | Description |
           |---|---|---|
-          | **Year**  | ${year_bar} | **${month_name} (${month_num}/12)** |
-          | **Month** | ${month_bar} | **${month_pct}%** |
-          | **Week**  | ${week_bar} | **${day_name} (${iso_dow}/7)** |
+          | **MonthInYear**  | ${year_bar} | **${month_name} (${month_num}/12)** |
+          # | **Month** | ${month_bar} | **${month_pct}%** |
+          | **DayInWeek**  | ${week_bar} | **${day_name} (${iso_dow}/7)** |
 
           🕒 **Updated (MSK):** **${date_str}**
           EOF
