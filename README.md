@@ -78,9 +78,9 @@
 | Time | Progress | Description |
 |---|---|---|
 | **Month_of_year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **December (12/12)** |
-| **Day_of_week**  | 🔥🔥🔥🔥🔥🔥🔥 | **Sunday (7/7)** |
+| **Day_of_week**  | 🔥🪵🪵🪵🪵🪵🪵 | **Monday (1/7)** |
 
-🕒 **Updated (MSK):** **14-Dec-2025**
+🕒 **Updated (MSK):** **15-Dec-2025**
 
 <!--END_SECTION:yearprogress-->
 
