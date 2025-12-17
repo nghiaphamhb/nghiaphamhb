@@ -89,7 +89,7 @@
     <img src="https://github-readme-stats-one-drab-54.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
   </p>
 
-  <h3>🐍 Contribution Snake</h3>
+  <h3>🐍 Year Contribution Snake</h3>
 
   <p>
     <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake.svg?v=5#gh-light-mode-only" alt="snake light" />
