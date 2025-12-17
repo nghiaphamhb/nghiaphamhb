@@ -96,4 +96,7 @@
     <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake-dark.svg?v=5#gh-dark-mode-only" alt="snake dark" />
   </p>
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nghiaphamhb&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=⚡️Contribution%20Lighting%20Per%20Month&title_color=FFD700&text_color=E6C200&icon_color=E6C200&line_color=FFD700" width="95%" style="max-width: 150%;">
+
 </div>
