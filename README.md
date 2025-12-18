@@ -72,7 +72,12 @@
     </a>
   </p>
 
-<!--START_SECTION:yearprogress-->
+  <p>
+    <img src="https://github-readme-stats-one-drab-54.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=FFD700&text_color=E6C200&icon_color=E6C200&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats-one-drab-54.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
+  </p>
+
+  <!--START_SECTION:yearprogress-->
 ### ⏳ Progress Dashboard
 
 | Time | Progress | Description |
@@ -84,10 +89,7 @@
 
 <!--END_SECTION:yearprogress-->
 
-  <p>
-    <img src="https://github-readme-stats-one-drab-54.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=FFD700&text_color=E6C200&icon_color=E6C200&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats-one-drab-54.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
-  </p>
+  ![nghiaphamhb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nghiaphamhb&bg_color=0d1117&color=ffe082&line=ffca28&point=5bcdec&area=true&hide_border=true&custom_title=⚡️Month%20Contribution%20Lighting)
 
   <h3>🐍 Year Contribution Snake</h3>
 
@@ -95,8 +97,5 @@
     <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake.svg?v=5#gh-light-mode-only" alt="snake light" />
     <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake-dark.svg?v=5#gh-dark-mode-only" alt="snake dark" />
   </p>
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nghiaphamhb&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=⚡️Contribution%20Lighting%20Per%20Month&title_color=FFD700&text_color=E6C200&icon_color=E6C200&border_color=FFD700" width="95%" style="max-width: 150%;">
 
 </div>
