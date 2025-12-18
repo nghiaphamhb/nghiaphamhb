@@ -77,15 +77,15 @@
     <img src="https://github-readme-stats-one-drab-54.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
   </p>
 
-  <!--START_SECTION:yearprogress-->
+<!--START_SECTION:yearprogress-->
 ### ⏳ Progress Dashboard
 
 | Time | Progress | Description |
 |---|---|---|
 | **Month_of_year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **December (12/12)** |
-| **Day_of_week**  | 🔥🔥🔥🔥🪵🪵🪵 | **Thursday (4/7)** |
+| **Day_of_week**  | 🔥🔥🔥🔥🔥🪵🪵 | **Friday (5/7)** |
 
-<!--🕒 **Updated (MSK):** **18-Dec-2025**-->
+🕒 **Updated (MSK):** **19-Dec-2025**
 
 <!--END_SECTION:yearprogress-->
 <br>
