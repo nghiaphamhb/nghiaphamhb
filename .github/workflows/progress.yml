@@ -96,7 +96,6 @@ jobs:
           | **Month_of_year**  | ${year_bar} | **${month_name} (${month_num}/12)** |
           | **Day_of_week**  | ${week_bar} | **${day_name} (${iso_dow}/7)** |
 
-          🕒 **Updated (MSK):** **${date_str}**
           EOF
 
       - name: Update README
