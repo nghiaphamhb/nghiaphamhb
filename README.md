@@ -85,13 +85,16 @@
 | **Month_of_year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **December (12/12)** |
 | **Day_of_week**  | 🔥🔥🔥🔥🪵🪵🪵 | **Thursday (4/7)** |
 
-🕒 **Updated (MSK):** **18-Dec-2025**
+<!--🕒 **Updated (MSK):** **18-Dec-2025**-->
 
 <!--END_SECTION:yearprogress-->
+<br>
 
-  ![nghiaphamhb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nghiaphamhb&bg_color=0d1117&color=ffe082&line=ffca28&point=5bcdec&area=true&hide_border=true&custom_title=⚡️Month%20Contribution%20Lighting)
+### ⚡️Month Contribution Lighting
 
-  <h3>🐍 Year Contribution Snake</h3>
+  ![nghiaphamhb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nghiaphamhb&bg_color=0d1117&color=ffe082&line=ffca28&point=5bcdec&area=true&hide_border=true&hide_title=true)
+
+### 🐍 Year Contribution Snake
 
   <p>
     <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake.svg?v=5#gh-light-mode-only" alt="snake light" />
