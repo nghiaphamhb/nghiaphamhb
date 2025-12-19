@@ -79,27 +79,7 @@
 | Time | Progress | Description |
 |---|---|---|
 | **Month_of_year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **December (12/12)** |
-| **Day_of_week**  | 🔥🔥🔥🔥🔥🪵🪵 | **Friday (5/7)** |
+| **Day_of_week**  | 🔥🔥🔥🔥🔥🔥🪵 | **Saturday (6/7)** |
 
-<br>
 
-### ⚡️Month Contribution Lighting
-
-  ![nghiaphamhb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nghiaphamhb&bg_color=0d1117&color=ffe082&line=ffca28&point=5bcdec&area=true&hide_border=true&hide_title=true)
-
-### 🐍 Year Contribution Snake
-
-  <p>
-    <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-snake/github-snake.svg?v=5#gh-light-mode-only" alt="snake light" />
-    <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-snake/github-snake-dark.svg?v=5#gh-dark-mode-only" alt="snake dark" />
-  </p>
-
-### 🥠 Year Contribution Pacman
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
+<!--END_SECTION:yearprogress-->
