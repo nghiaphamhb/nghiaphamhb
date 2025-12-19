@@ -90,8 +90,8 @@
 ### 🐍 Year Contribution Snake
 
   <p>
-    <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake.svg?v=5#gh-light-mode-only" alt="snake light" />
-    <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake-dark.svg?v=5#gh-dark-mode-only" alt="snake dark" />
+    <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-snake/github-snake.svg?v=5#gh-light-mode-only" alt="snake light" />
+    <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-snake/github-snake-dark.svg?v=5#gh-dark-mode-only" alt="snake dark" />
   </p>
 
 ### 🥠 Year Contribution Pacman
