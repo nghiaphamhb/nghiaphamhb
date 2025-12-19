@@ -94,8 +94,6 @@
     <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/github-snake-dark.svg?v=5#gh-dark-mode-only" alt="snake dark" />
   </p>
 
-</div>
-
 ### 🥠 Year Contribution Pacman
 
 <picture>
@@ -104,4 +102,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/pacman-contribution-graph.svg">
 </picture>
 
-
+</div>
