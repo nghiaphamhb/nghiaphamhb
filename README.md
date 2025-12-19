@@ -11,6 +11,18 @@
     </a>
   </p>
 
+   <p>
+    <a href="mailto:phamdangtrungnghia@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    </a>
+    <a href="https://rxresu.me/phamdangtrungnghia2/junior-backend-developer" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Resume&logo=readme&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
+    </a>
+    <a href="https://news.itmo.ru/en/education/students/news/13448/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Spot&logo=substack&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotlight logo" />
+    </a>
+  </p>
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=B8860B&style=flat" alt="nghiaphamhb" />
   </p>
@@ -34,43 +46,27 @@
 
   <h3>🧰 Languages and Tools</h3>
 
-  <p>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-  </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
 
-  <h3>🌐 Socials</h3>
-
-  <p>
-    <a href="mailto:phamdangtrungnghia@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    </a>
-    <a href="https://rxresu.me/phamdangtrungnghia2/junior-backend-developer" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Resume&logo=readme&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
-    </a>
-    <a href="https://news.itmo.ru/en/education/students/news/13448/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Spot&logo=substack&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotlight logo" />
-    </a>
-  </p>
+  <h3>🔥 Git Stats</h3>
 
   <p>
     <img src="https://github-readme-stats-one-drab-54.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=FFD700&text_color=E6C200&icon_color=E6C200&hide_border=false" height="150" alt="stats graph" />
@@ -99,3 +95,13 @@
   </p>
 
 </div>
+
+### 🥠 Year Contribution Pacman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/pacman-contribution-graph.svg">
+</picture>
+
+
