@@ -24,6 +24,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: Recolor SVGs to yellow palette
+        run: |
+          # Light SVG
+          perl -pi -e 's/#9be9a8/#fff9c4/g; s/#40c463/#fff176/g; s/#30a14e/#ffd54f/g; s/#216e39/#ffca28/g' dist/pacman-contribution-graph.svg
+          # Dark SVG
+          perl -pi -e 's/#0e4429/#ffe082/g; s/#006d32/#ffd54f/g; s/#26a641/#ffca28/g; s/#39d353/#ffb300/g' dist/pacman-contribution-graph-dark.svg
+
       - name: push pacman-contribution-graph.svg to the output-pacman branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
