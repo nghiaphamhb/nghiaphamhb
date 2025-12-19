@@ -83,3 +83,20 @@
 
 
 <!--END_SECTION:yearprogress-->
+
+### 🐍 Year Contribution Snake
+
+  <p>
+    <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-snake/github-snake.svg?v=5#gh-light-mode-only" alt="snake light" />
+    <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-snake/github-snake-dark.svg?v=5#gh-dark-mode-only" alt="snake dark" />
+  </p>
+
+### 🥠 Year Contribution Pacman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
