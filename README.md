@@ -79,7 +79,7 @@
 | Time | Progress | Description |
 |---|---|---|
 | **Month_of_year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **December (12/12)** |
-| **Day_of_week**  | 🔥🔥🔥🔥🔥🔥🔥 | **Sunday (7/7)** |
+| **Day_of_week**  | 🔥🪵🪵🪵🪵🪵🪵 | **Monday (1/7)** |
 
 
 <!--END_SECTION:yearprogress-->
