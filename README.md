@@ -28,7 +28,7 @@
   </p>
 
   <p>
-    Hi 👋 I'm a Software Engineering student with a strong interest in web development and building real-world applications.
+    👋 I'm a Software Engineering student with a strong interest in web development and building real-world applications.
   </p>
 
   <p>
@@ -94,13 +94,12 @@
 </picture> -->
 
 <!--START_SECTION:yearprogress-->
-### ⏳ Timer
-
+<!--
 | Time | Progress | Description |
 |---|---|---|
 | **Month_of_year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **December (12/12)** |
 | **Day_of_week**  | 🔥🔥🔥🪵🪵🪵🪵 | **Wednesday (3/7)** |
-
+-->
 
 <!--END_SECTION:yearprogress-->
 
