@@ -73,16 +73,6 @@
     <img src="https://github-readme-stats-one-drab-54.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
   </p>
 
-<!--START_SECTION:yearprogress-->
-### ⏳ Progress Dashboard
-
-| Time | Progress | Description |
-|---|---|---|
-| **Month_of_year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **December (12/12)** |
-| **Day_of_week**  | 🔥🔥🔥🪵🪵🪵🪵 | **Wednesday (3/7)** |
-
-
-<!--END_SECTION:yearprogress-->
 
 ### ⚡️Month Contribution Lighting
 
@@ -95,12 +85,23 @@
     <img src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-snake/github-snake-dark.svg?v=5#gh-dark-mode-only" alt="snake dark" />
   </p>
 
-### 🥠 Year Contribution Pacman
+<!-- ### 🥠 Year Contribution Pacman
 
-<picture>
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-pacman/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
+
+<!--START_SECTION:yearprogress-->
+### ⏳ Timer
+
+| Time | Progress | Description |
+|---|---|---|
+| **Month_of_year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **December (12/12)** |
+| **Day_of_week**  | 🔥🔥🔥🪵🪵🪵🪵 | **Wednesday (3/7)** |
+
+
+<!--END_SECTION:yearprogress-->
 
 </div>
