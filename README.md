@@ -94,12 +94,13 @@
 </picture> -->
 
 <!--START_SECTION:yearprogress-->
-<!--
+### ⏳ Progress Dashboard
+
 | Time | Progress | Description |
 |---|---|---|
 | **Month_of_year**  | 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 | **December (12/12)** |
-| **Day_of_week**  | 🔥🔥🔥🪵🪵🪵🪵 | **Wednesday (3/7)** |
--->
+| **Day_of_week**  | 🔥🔥🔥🔥🪵🪵🪵 | **Thursday (4/7)** |
+
 
 <!--END_SECTION:yearprogress-->
 
