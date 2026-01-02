@@ -99,7 +99,7 @@
 | Time | Progress | Description |
 |---|---|---|
 | **Month_of_year**  | 🔥🪵🪵🪵🪵🪵🪵🪵🪵🪵🪵🪵 | **January (1/12)** |
-| **Day_of_week**  | 🔥🔥🔥🔥🔥🪵🪵 | **Friday (5/7)** |
+| **Day_of_week**  | 🔥🔥🔥🔥🔥🔥🪵 | **Saturday (6/7)** |
 
 
 <!--END_SECTION:yearprogress-->
