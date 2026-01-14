@@ -36,7 +36,7 @@
 
   <h3>💻 Languages and Tools</h3>
   <!-- Frontend → tooling/test → Backend → DB → DevOps. -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,mui,vite,jest,nodejs,java,spring,postgres,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,mui,vite,nodejs,java,spring,postgres,docker&theme=dark" />
 
   <h3>🔥 Git Stats</h3>
 
