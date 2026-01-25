@@ -3,12 +3,6 @@
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=E6C200&center=true&vCenter=true&width=900&separator=|&lines=console.log(%22Hi%2C+my+name+is+Pham+Nghia%22)%3B|Promise.resolve(dreams).then(achieve)%3B" />
 
-
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=B8860B&style=flat" alt="nghiaphamhb" />
-  </p>
-
   <h3>🔗 Connect with me</h3>
   <p>
     <a href="mailto:phamdangtrungnghia@gmail.com" target="_blank">
