@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/javascript.gif" width="140" />
+  <img src="https://miro.medium.com/1*mr7WXw8tgpMhqugKP2WhrA.gif" height="200" />
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=E6C200&center=true&vCenter=true&width=900&separator=|&lines=console.log(%22Hi%2C+my+name+is+Pham+Nghia%22)%3B|Promise.resolve(dreams).then(achieve)%3B" />
 
@@ -17,8 +17,16 @@
   </p>
 
   <h3>💻 Languages and Tools</h3>
-  <!-- Frontend → tooling/test → Backend → DB → DevOps. -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,mui,vite,nodejs,java,spring,postgres,mongodb,git&theme=dark" />
+  <!-- Languages > FE-BE-DB Tools > DepOps/Deployment > Testing > Tools Workflows-->
+<img src="https://skillicons.dev/icons?i=html,css,js,java,ocaml&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,mui,vite,spring&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=jest,cypress,postman&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,docker&theme=dark" />
 
   <h3>🔥 Git Stats</h3>
 
