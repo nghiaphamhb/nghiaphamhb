@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/1*mr7WXw8tgpMhqugKP2WhrA.gif" height="200" />
+  <img src="https://miro.medium.com/1*mr7WXw8tgpMhqugKP2WhrA.gif" height="120" />
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=E6C200&center=true&vCenter=true&width=900&separator=|&lines=console.log(%22Hi%2C+my+name+is+Pham+Nghia%22)%3B|Promise.resolve(dreams).then(achieve)%3B" />
 
