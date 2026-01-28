@@ -25,7 +25,7 @@
 <h3>🚀 DevOps / Platform</h3>
 <img src="https://skillicons.dev/icons?i=vercel,git,docker&theme=dark" />
 <h3>🧰 Development Tools</h3>
-<img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman&theme=dark" />
 
   <h3>🔥 Git Stats</h3>
 
