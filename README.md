@@ -16,17 +16,16 @@
     </a>
   </p>
 
-  <h3>💻 Languages and Tools</h3>
-  <!-- Languages > FE-BE-DB Tools > DepOps/Deployment > Testing > Tools Workflows-->
-<img src="https://skillicons.dev/icons?i=html,css,js,java,ocaml&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,redux,mui,vite,spring&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=jest,cypress,postman&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,docker&theme=dark" />
+  <h3>🧠 Core Stack</h3>
+<img src="https://skillicons.dev/icons?i=js,java,ocaml,html,css&theme=dark" />
+<h3>🌐 Frontend Ecosystem</h3>
+<img src="https://skillicons.dev/icons?i=react,redux,mui,vite,jest,cypress&theme=dark" />
+<h3>🔧 Backend & Data</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mongodb&theme=dark" />
+<h3>🚀 DevOps / Platform</h3>
+<img src="https://skillicons.dev/icons?i=vercel,git,docker&theme=dark" />
+<h3>🧰 Development Tools</h3>
+<img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
 
   <h3>🔥 Git Stats</h3>
 
