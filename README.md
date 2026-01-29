@@ -31,7 +31,7 @@
 
   <p>
     <img src="https://github-readme-stats-one-drab-54.vercel.app/api?username=nghiaphamhb&show_icons=true&count_private=true&theme=dracula&title_color=FFD700&text_color=E6C200&icon_color=E6C200&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats-one-drab-54.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=5&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats-one-drab-54.vercel.app/api/top-langs?username=nghiaphamhb&layout=compact&langs_count=6&theme=dracula&title_color=FFD700&text_color=E6C200&hide=Jupyter%20Notebook&hide_border=false" height="150" alt="languages graph" />
   </p>
 
 
