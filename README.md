@@ -17,7 +17,7 @@
   </p>
 
   <h3>🧠 Core Stack</h3>
-<img src="https://skillicons.dev/icons?i=js,java,ocaml,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,java,ocaml,html,css,python,c,php&theme=dark" />
 <h3>🌐 Frontend Ecosystem</h3>
 <img src="https://skillicons.dev/icons?i=react,redux,mui,vite,jest,cypress&theme=dark" />
 <h3>🔧 Backend & Data</h3>
