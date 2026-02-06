@@ -38,7 +38,7 @@
       <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Git.svg" alt="Git" width="26" height="26" /></a>
       <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Github.png" alt="GitHub" width="26" height="26" /></a>
       <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/GitLab.svg" alt="GitLab" width="26" height="26" /></a>
-      <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Github Actions.svg" alt="Github Actions" width="26" height="26" /></a>
+      <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Github Actions.png" alt="Github Actions" width="26" height="26" /></a>
       <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Docker.svg" alt="Docker" width="26" height="26" /></a>
       <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Vercel.png" alt="Vercel" width="26" height="26" /></a>
       <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/NPM.svg" alt="NPM" width="26" height="26" /></a>
@@ -74,7 +74,7 @@
     </td>
     <td align="center"><b>Analytics</b></td>
     <td>
-      <a href="https://www.bugsnag.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/bugsnag.svg" alt="Bugsnag" width="26" height="26" /></a>
+      <a href="https://www.bugsnag.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/bugsnag.png" alt="Bugsnag" width="26" height="26" /></a>
       <a href="https://developers.google.com/analytics/devguides/collection/ga4" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Google Analytics 4.svg" alt="Google Analytics 4" width="26" height="26" /></a>
     </td>
   </tr>
