@@ -20,66 +20,62 @@
   </p>
 
 <h3>🔧 Stacks & Tools</h3>
-<table style="width:100%;border-collapse:separate;border-spacing:12px 10px">
+<table>
   <tr>
-    <td style="width:18%;vertical-align:top"><b>Languages</b></td>
-    <td style="width:32%;vertical-align:top">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="JavaScript" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/JavaScript.svg" alt="JavaScript" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://dev.java/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Java" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Java.svg" alt="Java" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://ocaml.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="OCaml" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Ocaml.svg" alt="Ocaml" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Python" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Python.svg" alt="Python" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <br/>
-      <a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="C" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/C.svg" alt="C" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="PHP" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/PHP.svg" alt="PHP" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="HTML" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/HTML.svg" alt="HTML" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="CSS" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/CSS.svg" alt="CSS" width="22" height="22" style="vertical-align:middle" /></span></a>
+    <td align="center"><b>Languages</b></td>
+    <td style="width:290px">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="assets/icons/JavaScript.svg" alt="JavaScript" width="26" height="26" /></a>
+      <a href="https://dev.java/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Java.svg" alt="Java" width="26" height="26" /></a>
+      <a href="https://ocaml.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Ocaml.svg" alt="Ocaml" width="26" height="26" /></a>
+      <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Python.svg" alt="Python" width="26" height="26" /></a>
+      <a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer"><img src="assets/icons/C.svg" alt="C" width="26" height="26" /></a>
+      <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/PHP.svg" alt="PHP" width="26" height="26" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="assets/icons/HTML.svg" alt="HTML" width="26" height="26" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="assets/icons/CSS.svg" alt="CSS" width="26" height="26" /></a>
     </td>
-    <td style="width:18%;vertical-align:top"><b>DevOps & Repos</b></td>
-    <td style="width:32%;vertical-align:top">
-      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Git" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Git.svg" alt="Git" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="GitHub" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/GitHub.svg" alt="GitHub" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="GitLab" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/GitLab.svg" alt="GitLab" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="GitHub Actions" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Github Actions.svg" alt="Github Actions" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <br/>
-      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Docker" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Docker.svg" alt="Docker" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Vercel" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Vercel.svg" alt="Vercel" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="npm" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/NPM.svg" alt="NPM" width="22" height="22" style="vertical-align:middle" /></span></a>
+    <td align="center"><b>DevOps & Repos</b></td>
+    <td>
+      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Git.svg" alt="Git" width="26" height="26" /></a>
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Github.png" alt="GitHub" width="26" height="26" /></a>
+      <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/GitLab.svg" alt="GitLab" width="26" height="26" /></a>
+      <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Github Actions.svg" alt="Github Actions" width="26" height="26" /></a>
+      <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Docker.svg" alt="Docker" width="26" height="26" /></a>
+      <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Vercel.png" alt="Vercel" width="26" height="26" /></a>
+      <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/NPM.svg" alt="NPM" width="26" height="26" /></a>
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top"><b>Frontend</b></td>
-    <td style="vertical-align:top">
-      <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="React" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/React.svg" alt="React" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Redux" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Redux.svg" alt="Redux" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://mui.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="MUI" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/MUI.svg" alt="MUI" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="jQuery" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/jQuery.svg" alt="jQuery" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <br/>
-      <a href="https://vite.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Vite" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Vite.svg" alt="Vite" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Jest" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Jest.svg" alt="Jest" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Cypress" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Cypress.svg" alt="Cypress" width="22" height="22" style="vertical-align:middle" /></span></a>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/React.svg" alt="React" width="26" height="26" /></a>
+      <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Redux.svg" alt="Redux" width="26" height="26" /></a>
+      <a href="https://mui.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/MUI.svg" alt="MUI" width="26" height="26" /></a>
+      <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/jQuery.svg" alt="jQuery" width="26" height="26" /></a>
+      <a href="https://vite.dev/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Vite.svg" alt="Vite" width="26" height="26" /></a>
+      <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Jest.svg" alt="Jest" width="26" height="26" /></a>
+      <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Cypress.svg" alt="Cypress" width="26" height="26" /></a>
     </td>
-    <td style="vertical-align:top"><b>Dev Tools</b></td>
-    <td style="vertical-align:top">
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="VS Code" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/VScode.svg" alt="VScode" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="IntelliJ IDEA" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/IntelliJ.svg" alt="IntelliJ Idea" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Postman" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Postman.svg" alt="Postman" width="22" height="22" style="vertical-align:middle" /></span></a>
+    <td align="center"><b>Dev Tools</b></td>
+    <td>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/VScode.svg" alt="VScode" width="26" height="26" /></a>
+      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/IntelliJ.svg" alt="IntelliJ Idea" width="26" height="26" /></a>
+      <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Postman.svg" alt="Postman" width="26" height="26" /></a>
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top"><b>Backend & Data</b></td>
-    <td style="vertical-align:top">
-      <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Node.js" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/NodeJS.svg" alt="NodeJS" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://spring.io/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Spring" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Spring.svg" alt="Spring" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://socket.io/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Socket.io" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Socket.io.svg" alt="Socket.io" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <br/>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="PostgreSQL" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/PostgresSQL.svg" alt="PostgresSQL" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="MongoDB" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/MongoDB.svg" alt="MongoDB" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://sqlite.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="SQLite" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/SQLite.svg" alt="SQLite" width="22" height="22" style="vertical-align:middle" /></span></a>
+    <td align="center"><b>Backend & Data</b></td>
+    <td>
+      <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer"><img src="assets/icons/NodeJS.svg" alt="NodeJS" width="26" height="26" /></a>
+      <a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Spring.svg" alt="Spring" width="26" height="26" /></a>
+      <a href="https://socket.io/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Socket.io.png" alt="Socket.io" width="26" height="26" /></a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/PostgresSQL.svg" alt="PostgresSQL" width="26" height="26" /></a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/MongoDB.svg" alt="MongoDB" width="26" height="26" /></a>
+      <a href="https://sqlite.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/SQLite.svg" alt="SQLite" width="26" height="26" /></a>
     </td>
-    <td style="vertical-align:top"><b>Observability & Analytics</b></td>
-    <td style="vertical-align:top">
-      <a href="https://www.bugsnag.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Bugsnag" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/bugsnag.svg" alt="Bugsnag" width="22" height="22" style="vertical-align:middle" /></span></a>
-      <a href="https://developers.google.com/analytics/devguides/collection/ga4" target="_blank" rel="noopener noreferrer" style="text-decoration:none"><span title="Google Analytics 4" style="display:inline-flex;align-items:center;justify-content:center;padding:7px 9px;border-radius:999px;background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);margin:0 8px 8px 0;transition:all .15s ease"><img src="assets/icons/Google Analytics 4.svg" alt="Google Analytics 4" width="22" height="22" style="vertical-align:middle" /></span></a>
+    <td align="center"><b>Analytics</b></td>
+    <td>
+      <a href="https://www.bugsnag.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/bugsnag.svg" alt="Bugsnag" width="26" height="26" /></a>
+      <a href="https://developers.google.com/analytics/devguides/collection/ga4" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Google Analytics 4.svg" alt="Google Analytics 4" width="26" height="26" /></a>
     </td>
   </tr>
 </table>
