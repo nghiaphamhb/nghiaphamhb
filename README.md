@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/1*mr7WXw8tgpMhqugKP2WhrA.gif" height="120" />
+  <img src="assets/coding_at_night.gif" width="50%"/>
   <br><br>
   <p>
     <img src="https://komarev.com/ghpvc/?username=nghiaphamhb&label=Profile%20views&color=B8860B&style=flat" alt="nghiaphamhb" />
