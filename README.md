@@ -19,7 +19,7 @@
     </a>
   </p>
 
-<h3>🔧 Stacks & Tools</h3>
+<!-- <h3>🔧 Stacks & Tools</h3>
 <table>
   <tr>
     <td align="center"><b>Languages</b></td>
@@ -80,7 +80,7 @@
       <a href="https://developers.google.com/analytics/devguides/collection/ga4" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Google Analytics 4.svg" alt="Google Analytics 4" width="26" height="26" /></a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
   <h3>🔥 Git Stats</h3>
