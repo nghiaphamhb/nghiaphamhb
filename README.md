@@ -42,14 +42,12 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="assets/icons/HTML.svg" alt="HTML" width="26" height="26" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="assets/icons/CSS.svg" alt="CSS" width="26" height="26" /></a>
     </td>
-    <td align="center"><b>DevOps & Repos</b></td>
+    <td align="center"><b>DevOps & Automation</b></td>
     <td>
       <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Git.svg" alt="Git" width="26" height="26" /></a>
-      <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Github.png" alt="GitHub" width="26" height="26" /></a>
-      <a href="https://gitlab.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/GitLab.svg" alt="GitLab" width="26" height="26" /></a>
       <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Docker.svg" alt="Docker" width="26" height="26" /></a>
       <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Vercel.png" alt="Vercel" width="26" height="26" /></a>
-      <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/NPM.svg" alt="NPM" width="26" height="26" /></a>
+      <a href="https://n8n.io/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/n8n.png" alt="n8n" width="26" height="26" /></a>
     </td>
   </tr>
   <tr>
@@ -61,16 +59,12 @@
       <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/jQuery.svg" alt="jQuery" width="26" height="26" /></a>
       <a href="https://vite.dev/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Vite.svg" alt="Vite" width="26" height="26" /></a>
     </td>
-    <td align="center"><b>Tooling</b></td>
+    <td align="center"><b>Testing</b></td>
     <td>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/VScode.svg" alt="VScode" width="26" height="26" /></a>
-      <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/IntelliJ.svg" alt="IntelliJ Idea" width="26" height="26" /></a>
-      <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Postman.svg" alt="Postman" width="26" height="26" /></a>
-      <a href="https://junit.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/JUnit5.png" alt="JUnit5" width="26" height="26" /></a>
       <a href="https://jestjs.io/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Jest.svg" alt="Jest" width="26" height="26" /></a>
       <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/cypress.png" alt="Cypress" width="26" height="26" /></a>
-      <a href="https://n8n.io/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/n8n.png" alt="n8n" width="26" height="26" /></a>
-      <a href="https://www.netacad.com/resources/lab-downloads?courseLang=en-US" target="_blank" rel="noopener noreferrer"><img src="assets/icons/cisco-packet-tracer.png" alt="Cisco Packet Tracer" width="26" height="26" /></a>
+      <a href="https://junit.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/JUnit5.png" alt="JUnit5" width="26" height="26" /></a>
+      <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/selenium.svg" alt="Selenium" width="26" height="26" /></a>
     </td>
   </tr>
   <tr>
