@@ -38,6 +38,7 @@
       <a href="https://ocaml.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Ocaml.svg" alt="Ocaml" width="26" height="26" /></a>
       <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Python.svg" alt="Python" width="26" height="26" /></a>
       <a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer"><img src="assets/icons/C.svg" alt="C" width="26" height="26" /></a>
+      </br>
       <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/PHP.svg" alt="PHP" width="26" height="26" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="assets/icons/HTML.svg" alt="HTML" width="26" height="26" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="assets/icons/CSS.svg" alt="CSS" width="26" height="26" /></a>
@@ -65,6 +66,7 @@
       <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/cypress.png" alt="Cypress" width="26" height="26" /></a>
       <a href="https://junit.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/JUnit5.png" alt="JUnit5" width="26" height="26" /></a>
       <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/selenium.svg" alt="Selenium" width="26" height="26" /></a>
+      <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Postman.svg" alt="Postman" width="26" height="26" /></a>
     </td>
   </tr>
   <tr>
