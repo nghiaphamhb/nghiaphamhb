@@ -26,13 +26,12 @@
       <img src="https://img.shields.io/static/v1?message=Exercism&logo=exercism&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="exercism logo" />
     </a>
   </p>
-
+<!-- 
 <h3>🔧 Stacks & Tools</h3>
 <table>
   <tr>
     <td align="center"><b>Languages</b></td>
     <td style="width:290px">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/typescript.png" alt="TypeScript" width="26" height="26" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="assets/icons/JavaScript.svg" alt="JavaScript" width="26" height="26" /></a>
       <a href="https://dev.java/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Java.svg" alt="Java" width="26" height="26" /></a>
       <a href="https://ocaml.org/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Ocaml.svg" alt="Ocaml" width="26" height="26" /></a>
@@ -85,7 +84,7 @@
       <a href="https://developers.google.com/analytics/devguides/collection/ga4" target="_blank" rel="noopener noreferrer"><img src="assets/icons/Google Analytics 4.svg" alt="Google Analytics 4" width="26" height="26" /></a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
   <h3>🔥 Git Stats</h3>
