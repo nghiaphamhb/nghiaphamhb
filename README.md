@@ -97,7 +97,7 @@
 
 ### ⚡️Month Contribution Lighting
 
-  ![nghiaphamhb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nghiaphamhb&bg_color=0d1117&color=ffe082&line=ffca28&point=5bcdec&area=true&hide_border=true&hide_title=true)
+  ![nghiaphamhb's github activity graph](https://raw.githubusercontent.com/nghiaphamhb/nghiaphamhb/output-activity/activity-graph.svg)
 
 ### 🐍 Year Contribution Snake
 
